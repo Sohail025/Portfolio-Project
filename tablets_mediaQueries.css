@@ -569,5 +569,164 @@ body {
     font-size: 12px;
     text-align: center;
 }
+.super {
+    background-color: #FFB400;
+    width: 97%;
+    text-align: center;
+    padding: 3px 3px;
+}
+.part1 {
+    height: 306vh;
+}
+.part3 {
+    height: 306vh;
+}
+#hs_3 {
+    margin-top: 351px;
+}
+.hs_2 {
+    margin-bottom: -12px;
+}
+#p_29 {
+    margin: 0px 91px;
+}
+.part2_5 {
+    margin-top: 974px;
+}
+#p_29 {
+    margin: 0px 211px;
+}
+.p6 {
+    margin-left: 130px;
+    position: relative;
+    right: -50px;
+    font-size: 12px;
+    text-align: center;
+}
+#p_29 {
+    right: 0px;
+}
+#p_30 {
+    position: relative;
+    left: 30px;
+}
+#p_31 {
+    position: relative;
+    left: 30px;
+}
+#p_32 {
+    position: relative;
+    left: 30px;
+}
+#p_33 {
+    position: relative;
+    left: 30px;
+}
+#p_30 {
+    margin: 0px 92px;
+    position: relative;
+    left: 0px;
+}
+#p_27 {
+    margin-left: -63px;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    right: -149px;
+}
+.part1 {
+    height: 87vh;
+}
+.part3 {
+    height: 87vh;
+}
+#p2 {
+    font-family: 'Inter_r';
+}
+#square5 {
+    display: none;
+}
+#h_30 {
+    display: none;
+}
+.btn2 {
+    height: 20px;
+    width: 100px;
+    font-size: 10px;
+    position: relative;
+    top: 2px;
+}
+.part1 {
+    height: 70vh;
+}
+.part3 {
+    height: 70vh;
+}
+.part2_3 {
+    position: absolute;
+    bottom: -406px;
+}
+.part2_5 {
+    position: relative;
+    margin-top: 367px;
+}
+#p_31 {
+    position: relative;
+    left: -43px;
+    margin-right: 57px;
+}
+#p_32 {
+    position: relative;
+    left: -48px;
+    margin-right: 50px;
+}
+#p_33 {
+    position: relative;
+    left: -48px;
+    margin-right: 50px;
+}
+.icon_set_1 {
+    position: relative;
+    left: 0px;
+    bottom: 200px;
+    top: 116px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 /* End */
+/* ----------- Displays ------------------ */
+/* ----------- Displays ------------------ */
+.part2_1 {
+    display: ;
+}
+.part2_2 {
+    display: ;
+}
+.part2_3 {
+    display: ;
+}
+.part2_4 {
+    display: ;
+}
+.part2_5 {
+    display: ;
+}
+.part2_6 {
+    display: ;
+}
+.part2_7 {
+    display: ;
+}
+.part2_8 {
+    display: ;
+}
+.part2_9 {
+    display: ;
+}
+.part2_10 {
+    display: ;
+}
+/* ----------- Displays ------------------ */
+/* ----------- Displays ------------------ */
 }

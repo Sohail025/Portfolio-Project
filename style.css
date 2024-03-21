@@ -559,16 +559,11 @@ body {
 #btn4_1 {
     background-color:#FFB400;
 }
-.space {
-    width: 23%;
-    height: 30px;
+.super {
     background-color:#FFB400;
-    position: absolute;
-    top: 1377px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    width: 98%;
+    text-align: center;
+    padding: 3px 3px;
 }
 .p7 {
     font-family: Inter_medium;
@@ -917,6 +912,6 @@ body {
     height: 25px;
     width: 25px;
     position: relative;
-    bottom: 170px;
-    margin-right: 40px;
+    top: 40px;
+    left: 24px;
 }
